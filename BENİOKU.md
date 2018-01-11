@@ -1,8 +1,8 @@
 
-Sınıf	Öğrenci İsmi	Numara
-9-D  	Elif Ezgi Güçtaş	578
-9-D  	Zeynep Arı.    	548
-9-D    	Özgenur Battal	534
+Sınıf 	Öğrenci İsmi	Numara
+9-B   |Elif Ezgi Güçtaş |578
+9-B   |Zeynep Arı       |548
+9-B   |Özgenur Battal   |534
 
 
 Özet (Abstract):
